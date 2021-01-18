@@ -43,7 +43,7 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
 
 7. Repair Time
 
-![Image]()
+![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Bike%20Repairs.png)
 
 .This is a unqiue graph but it provides powerful insight as to which bikes need repairs based on usage. As a future business owner this input can be relevant when it comes to the end of the month and repairs need to be had.
 
