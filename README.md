@@ -9,4 +9,4 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
 
 1. How long bikes are checked out for all riders and genders?
 
-![Image](C:\Users\Amr\Analysis Projects\bikesharing\Images\Checkout Times by Gender.png)
+![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
