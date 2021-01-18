@@ -15,7 +15,7 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
 
 2. How many trips are taken by the hour for each day of the week, for all riders and genders?
 
- ![Image]()
+ ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Trps%20by%20Weekday%20per%20Hour.png)
  . 
  
  3. A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
