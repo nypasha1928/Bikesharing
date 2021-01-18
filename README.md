@@ -25,7 +25,7 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
  
  4. Starting Locations Based on Usage
  
- ![Image]()
+ ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Top%20Starting%20Locations.png)
  
  . This map shows us that the stations that are used the most are near the water and in the middle of the city as expected.
  
