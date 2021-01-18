@@ -37,7 +37,7 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
  
  6. Gender Breakdown
 
-![Image]()
+![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Gender%20Breakdown.png)
 
 . As stated before the gender demographic is predominatly Male Subscribers compared to the rest with a huge 1,372,601 count. While females subscribers only make up 493,752.
 
