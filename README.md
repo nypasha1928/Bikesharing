@@ -31,7 +31,7 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
  
  5. Ending Locations Based on Usage
  
- ![Image]()
+ ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Top%20Ending%20Locations.png)
  
  . Just as the starting locations graph this has the same graphic where we see that the top ending locations are aligned with the top starting locations, near the water and in the middle of the city.
  
