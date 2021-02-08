@@ -4,6 +4,7 @@
 
 The purpose of this project was to do an analysis of NYC Citibike traffic to determine what a future business owner needs to prepare for, due to her future investment in a rental bike company in Des Moines. This Dataset was from August which is what our potential new business picked.
 
+[link to dashboard](https://public.tableau.com/profile/amr.salem8189#!/)
 
 ## Results
 
