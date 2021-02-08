@@ -10,18 +10,18 @@ The purpose of this project was to do an analysis of NYC Citibike traffic to det
 
 1. How long bikes are checked out for all riders and genders?
 
-![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png)
+![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Checkout%20Times%20By%20Gender.png)
 
  . We can see that Male are the predominant bike riders in NYC with the highest popularity of rentals in the early mornings, most likely    due to traffic going towards work. As the day goes on we see all groups decrease as they are most likely using public or private transit.
 
 2. How many trips are taken by the hour for each day of the week, for all riders and genders?
 
- ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Trps%20by%20Weekday%20per%20Hour.png)
+ ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/Trips%20By%20Gender%20(%20Weekday%20Per%20Hour).png)
  . 
  
  3. A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
  
- ![Image]()
+ ![Image](https://github.com/nypasha1928/bikesharing/blob/main/Images/User%20Trips%20By%20Gender%20By%20Weekday.png)
  
  
  4. Starting Locations Based on Usage
